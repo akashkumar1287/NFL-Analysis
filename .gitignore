@@ -1,3 +1,4 @@
 git lfs install
 NFLPlaybyPlay.csv
 NFL_Data_Cleaned.csv
+.DS_Store
